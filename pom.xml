@@ -8,10 +8,10 @@
 		<version>2.6.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>serviciosrest</groupId>
-	<artifactId>PSP_A3_REST_Cliente</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>actividad3-Cliente</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PSP_A3_REST_Cliente</name>
+	<name>actividad3-Cliente</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
